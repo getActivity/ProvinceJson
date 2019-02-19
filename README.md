@@ -20,6 +20,8 @@
 
 * 莱芜市已经划分给济南市成为莱芜区
 
+* 补充一个济南的高新技术产业开发区
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -34,7 +36,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)
 
 #### 作者的其他开源项目
 
