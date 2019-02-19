@@ -28,6 +28,8 @@
 
 * 安庆市潜山县已经县改市成功，现在改为潜山市
 
+* 重庆市开县现在改为开州区
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -42,7 +44,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)、[langlangsAgo](https://github.com/langlangsAgo)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)、[langlangsAgo](https://github.com/langlangsAgo)、[tangchangqiang](https://github.com/tangchangqiang)
 
 #### 作者的其他开源项目
 
