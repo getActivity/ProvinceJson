@@ -16,7 +16,9 @@
 
 * 新增长春市的几个新区和经济开发区，具体可见[长春市人民政府](http://www.changchun.gov.cn/zjzc/)
 
-* 纠正上海市的崇明县为崇明区
+* 上海市的崇明县纠正为崇明区
+
+* 莱芜市已经划分给济南市成为莱芜区
 
 #### 关于排名
 
@@ -32,7 +34,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)
 
 #### 作者的其他开源项目
 
