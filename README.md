@@ -24,6 +24,8 @@
 
 * 补充一个成都市的天府区
 
+* 补充一个湖北省的神农架林区
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -38,7 +40,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)
 
 #### 作者的其他开源项目
 
