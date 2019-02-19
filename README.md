@@ -20,7 +20,9 @@
 
 * 莱芜市已经划分给济南市成为莱芜区
 
-* 补充一个济南的高新技术产业开发区
+* 补充一个济南市的高新技术产业开发区
+
+* 补充一个成都市的天府区
 
 #### 关于排名
 
@@ -36,7 +38,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)
 
 #### 作者的其他开源项目
 
