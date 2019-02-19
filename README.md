@@ -16,6 +16,8 @@
 
 * 新增长春市的几个新区和经济开发区，具体可见[长春市人民政府](http://www.changchun.gov.cn/zjzc/)
 
+* 纠正上海市的崇明县为崇明区
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -30,7 +32,7 @@
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)
+[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)
 
 #### 作者的其他开源项目
 
