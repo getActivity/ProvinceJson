@@ -42,6 +42,8 @@
 
 * 补充一个河南省的济源市
 
+* 纠正潜山市不是单独的市级区域，而是属于安庆市下面的县级区域
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -61,6 +63,10 @@
 #### 作者的其他开源项目
 
 * 架构工程：[AndroidProject](https://github.com/getActivity/AndroidProject)
+
+* 网络框架：[EasyHttp](https://github.com/getActivity/EasyHttp)
+
+* 日志框架：[Logcat](https://github.com/getActivity/Logcat)
 
 * 权限框架：[XXPermissions](https://github.com/getActivity/XXPermissions)
 
