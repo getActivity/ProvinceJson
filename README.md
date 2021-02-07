@@ -1,6 +1,8 @@
 # 省市区Json
 
-> 本开源项目基于[China_Province_City](https://github.com/small-dream/China_Province_City)进行修改完善
+* 码云地址：[Gitee](https://gitee.com/getActivity/ProvinceJson)
+
+* 本开源项目基于[China_Province_City](https://github.com/small-dream/China_Province_City)进行修改完善
 
 #### 修改内容
 
@@ -44,6 +46,8 @@
 
 * 纠正潜山市不是单独的市级区域，而是属于安庆市下面的县级区域
 
+* 垦利县已改名为垦利区，具体可见[垦利区人民政府](http://www.kenli.gov.cn/)
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -52,29 +56,47 @@
 
 #### 其他
 
-> 希望每个使用的人能检查一下自己老家的县级区域是否刊登有误
+* 希望每个使用的人能检查一下自己老家的县级区域是否刊登有误
 
-> 如果发现省市区中的数据有误，欢迎你在 [issue](https://github.com/getActivity/ProvinceJson/issues/new) 报告给我，最好能附上链接
+* 如果发现省市区中的数据有误，欢迎你在 [issue](https://github.com/getActivity/ProvinceJson/issues/new) 报告给我，最好能附上链接
 
 #### 特别感谢
 
-[李凯](https://github.com/EdelweissBubble)、[发条与小小]()、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)、[langlangsAgo](https://github.com/langlangsAgo)、[tangchangqiang](https://github.com/tangchangqiang)、[B.A](https://github.com/lubaoan)
+[李凯](https://github.com/EdelweissBubble)、[Mr.J](https://github.com/zhouazhou)、[不将就](https://github.com/pliybird)、[F1ghters](https://github.com/fuxiaoyuandroid)、[Vegen](https://github.com/Vegen)、
+
+[liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)、
+
+[langlangsAgo](https://github.com/langlangsAgo)、[tangchangqiang](https://github.com/tangchangqiang)、[B.A](https://github.com/lubaoan)、[Dkaishu](https://github.com/Dkaishu)
 
 #### 作者的其他开源项目
 
-* 架构工程：[AndroidProject](https://github.com/getActivity/AndroidProject)
+* 安卓技术中台：[AndroidProject](https://github.com/getActivity/AndroidProject)
 
 * 网络框架：[EasyHttp](https://github.com/getActivity/EasyHttp)
 
-* 日志框架：[Logcat](https://github.com/getActivity/Logcat)
+* 吐司框架：[ToastUtils](https://github.com/getActivity/ToastUtils)
 
 * 权限框架：[XXPermissions](https://github.com/getActivity/XXPermissions)
 
-* 吐司框架：[ToastUtils](https://github.com/getActivity/ToastUtils)
+* 标题栏框架：[TitleBar](https://github.com/getActivity/TitleBar)
 
 * 悬浮窗框架：[XToast](https://github.com/getActivity/XToast)
 
-* 标题栏框架：[TitleBar](https://github.com/getActivity/TitleBar)
+* 国际化框架：[MultiLanguages](https://github.com/getActivity/MultiLanguages)
+
+* Gson 解析容错：[GsonFactory](https://github.com/getActivity/GsonFactory)
+
+* 日志查看框架：[Logcat](https://github.com/getActivity/Logcat)
+
+#### 微信公众号：Android轮子哥
+
+![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/official_ccount.png)
+
+#### 如果您觉得我的开源库帮你节省了大量的开发时间，请扫描下方的二维码随意打赏，要是能打赏个 10.24 :monkey_face:就太:thumbsup:了。您的支持将鼓励我继续创作:octocat:
+
+![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_ali.png) ![](https://raw.githubusercontent.com/getActivity/Donate/master/picture/pay_wechat.png)
+ 
+#### [点击查看捐赠列表](https://github.com/getActivity/Donate)
 
 ## License
 
