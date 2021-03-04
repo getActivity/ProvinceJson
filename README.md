@@ -48,11 +48,15 @@
 
 * 垦利县已改名为垦利区，具体可见[垦利区人民政府](http://www.kenli.gov.cn/)
 
+* 2020年6月5日，[中华人民共和国国务院批复同意撤销烟台市蓬莱市、长岛县，合并设立烟台市蓬莱区](https://baike.baidu.com/item/%E8%93%AC%E8%8E%B1%E5%8C%BA/50835320)
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
 
-* 省份按照 2018 GDP 进行排名，自治区和收复领土排名靠后
+* 各个省份按照 2018 GDP 进行排名
+
+* 自治区和收复领土排名靠后
 
 #### 其他
 
@@ -67,6 +71,8 @@
 [liys](https://github.com/liys666666)、[baohexin](https://github.com/baohexin)、[juminut](https://github.com/juminut)、[Kwei9](https://github.com/Kwei9)、
 
 [langlangsAgo](https://github.com/langlangsAgo)、[tangchangqiang](https://github.com/tangchangqiang)、[B.A](https://github.com/lubaoan)、[Dkaishu](https://github.com/Dkaishu)
+
+[JsonBob](https://github.com/JonsonBob)、[Shakespeare](https://github.com/wnwtest)、
 
 #### 作者的其他开源项目
 
