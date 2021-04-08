@@ -52,6 +52,8 @@
 
 * 根据新版 2020 年 8 月中华人民共和国县以上行政区对 Json 进行纠正
 
+* 补充浙江省金华市的一个县级市：永康市，具体可见[百度百科](https://baike.baidu.com/item/%E6%B0%B8%E5%BA%B7/3441691?fromtitle=%E6%B0%B8%E5%BA%B7%E5%B8%82&fromid=10098746&fr=aladdin)
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
@@ -74,7 +76,7 @@
 
 [langlangsAgo](https://github.com/langlangsAgo)、[tangchangqiang](https://github.com/tangchangqiang)、[B.A](https://github.com/lubaoan)、[Dkaishu](https://github.com/Dkaishu)
 
-[JsonBob](https://github.com/JonsonBob)、[Shakespeare](https://github.com/wnwtest)、
+[JsonBob](https://github.com/JonsonBob)、[Shakespeare](https://github.com/wnwtest)、[Cyhlnj](https://github.com/Cyhlnj)
 
 #### 作者的其他开源项目
 
