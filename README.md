@@ -56,6 +56,8 @@
 
 * 补充江苏省镇江市的几个县级市：丹阳市、扬中市、句容市，具体可见[全国行政区划信息查询平台-江苏省镇江市](http://xzqh.mca.gov.cn/defaultQuery?shengji=%BD%AD%CB%D5%CA%A1%A3%A8%CB%D5%A3%A9&diji=%D5%F2%BD%AD%CA%D0&xianji=%D1%EF%D6%D0%CA%D0)
 
+* 纠正一些功能区的叫法（区改成新区，例如浦东区修改成浦东新区等）
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
