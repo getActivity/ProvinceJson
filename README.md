@@ -96,6 +96,16 @@
 
 * 福建省漳州市“龙海市”撤市设区为“龙海区”，“长泰县”撤县设区为“长泰区”（2021-02/04），具体可见 [漳州市龙海区、长泰区授牌](https://www.fujian.gov.cn/xwdt/fjyw/202104/t20210422_5580833.htm)
 
+* 新疆维吾尔自治区新设岑岭县，具体可见 [新疆新设岑岭县](https://www.gov.cn/lianbo/202603/content_7063853.htm)
+
+* 新疆维吾尔自治区新设和安县、和康县，具体可见 [新疆新设和安县、和康县](https://www.gov.cn/lianbo/difang/202412/content_6994891.htm)
+
+* 新疆维吾尔自治区新设新星市，具体可见 [关于设立县级新星市的通知](https://www.xinjiang.gov.cn/xinjiang/zfgbml/202106/0f5b54112d0f43a59f9befc9e40d87da.shtml)
+
+* 新疆维吾尔自治区新设白杨市，具体可见 [新疆维吾尔自治区人民政府关于党中央、国务院批准设立县级白杨市的公告](https://www.xinjiang.gov.cn/xinjiang/tzgg/202301/8bd4c6578fae4c469680d068c187c7b0.shtml)
+
+* 新疆维吾尔自治区新设草湖市，具体可见 [新疆维吾尔自治区人民政府关于党中央、国务院批准设立县级草湖市的公告](https://www.xinjiang.gov.cn/xinjiang/tzgg/202604/3691350b13064945947d8f78933ccb3e.shtml)
+
 #### 关于排名
 
 * 直辖市排名靠前（北京，上海，天津，重庆）
